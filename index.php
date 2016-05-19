@@ -38,6 +38,15 @@
 					<form method="get">
 						<input type="text" placeholder="Where At?"/>
 						<input type="text" id="datetimepicker" placeholder="Date/Time"/>
+						<select>
+							<option disabled selected>Capacity</option>
+							<option>1-10</option>
+							<option>11-30</option>
+							<option>31-50</option>
+							<option>51-70</option>
+							<option>71-100</option>
+							<option>100+</option>
+						</select>
 					</form>
 				</div>
 			</div>
