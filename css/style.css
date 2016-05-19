@@ -8,7 +8,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 */
 
-* {
+html {
 	-webkit-appearance: none;
 	-webkit-tap-highlight-color: transparent;
 	-webkit-text-size-adjust: none;
@@ -57,9 +57,23 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 #inner h1 {
 	color: #ffffff;
 	text-align: center;
+	font-size: 3.518em;
+	line-height: .75em;
 }
 
+#inner h2 {
+	color: #ffffff;
+	text-align: center;
+	font-size: 1.776em;
+	line-height: 1.776em;
+}
 
+#inner img {
+	height: 4.28em;
+	max-width: 100%;
+	display: block;
+	margin: auto;
+}
 #search {
 	background: url("../images/opacity.png");
 	width: 100%;

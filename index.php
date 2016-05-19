@@ -35,7 +35,9 @@
 		<div id="main">
 			<div id="inner">
 				<div id="logo">
-					<h1>AnySpace</h1>
+					<h2>GET</h2>
+					<img src="images/anyspace-text-logo.svg" alt="AnySpace Text Logo"</img>
+					<h2>FOR ANY EVENT</h2>
 				</div>
 				<div id="search">
 					<form method="get">
