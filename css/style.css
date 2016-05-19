@@ -82,11 +82,15 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 	width: 540px;
 	border-radius: 5px 0 0 5px;
 	margin-left: 0;
+	padding-top: 0;
+    padding-bottom: 0;
 }
 #search input[type="text"]:nth-of-type(2) {
 	width: 297px;
 	width: 308px;	/* temporary to line up with datetimepicker */
 	background: #ffffff url("../images/select-arrow.png") no-repeat right;
+	padding-top: 0;
+    padding-bottom: 0;
 }
 #search select {
 	padding-top: 15px;
