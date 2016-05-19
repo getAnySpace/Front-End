@@ -26,7 +26,6 @@
 	<body>
 		<div id="header">
 			<div id="top">
-				
 			</div>
 			<div id="video" class="purple-background">
 				
@@ -34,6 +33,7 @@
 		</div>
 		<div id="main">
 			<div id="inner">
+			<img src = "images/anyspace-door-logo.svg" alt="AnySpace Door Logo"</img>	
 				<div id="logo">
 					<h2>GET</h2>
 					<img src="images/anyspace-text-logo.svg" alt="AnySpace Text Logo"</img>
