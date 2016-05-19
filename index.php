@@ -10,7 +10,6 @@
 		
 		<!-- FONTS -->
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-		<!--<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">-->
 		
 		<!-- JAVASCRIPT SCRIPTS -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
@@ -47,6 +46,7 @@
 							<option>71-100</option>
 							<option>100+</option>
 						</select>
+						<input type="submit" value="Search"/>
 					</form>
 				</div>
 			</div>
