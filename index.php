@@ -1,6 +1,8 @@
-<html>
+<!doctype html>
+<html lang="en">
 	<head>
 		<meta id="viewport" name="viewport" content="width=device-width">
+		<meta charset="utf-8">
 		
 		<title>AnySpace | Get AnySpace For Any Event</title>
 		<link rel="shortcut icon" href="images/icon.png">
@@ -10,6 +12,8 @@
 		
 		<!-- FONTS -->
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<link rel='stylesheet' href='fonts/glyphicons/css/glyphicons.css'>
+		<script src='fonts/glyphicons/scripts/modernizr.js'></script>
 		
 		<!-- JAVASCRIPT SCRIPTS -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
