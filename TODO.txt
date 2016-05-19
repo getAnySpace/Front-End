@@ -1,0 +1,6 @@
+Pat:
+	Write remaining HTML for landing page
+
+Rytis:
+	Finish up styling of search div
+	Style rest of landing page, once HTML is written
