@@ -1,0 +1,45 @@
+* {
+	-webkit-appearance: none;
+	-webkit-tap-highlight-color: transparent;
+	-webkit-text-size-adjust: none;
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+.clear {
+	clear: both;
+}
+
+.purple {
+	color: #8B87C7;
+}
+
+.purple-background {
+	background: #8B87C7;
+}
+
+
+
+
+
+
+/* Header */
+
+#video {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+
+#inner {
+	padding-left: 50%;
+	padding-top: 50%;
+	padding-left: calc(50% - 80px);
+	padding-top: calc(50% - 32.5px);
+	position: absolute;
+}
+
+#inner h1 {
+	color: #ffffff;
+	text-align: center;
+}
