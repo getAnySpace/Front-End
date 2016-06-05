@@ -19,6 +19,7 @@
 		<!-- JAVASCRIPT SCRIPTS -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
 		<script src="js/script.js"></script>
+		<script src="js/browsers.js"></script>
 		
 		<!-- PLUGINS -->
 		<link rel="stylesheet" type="text/css" href="plugins/datetimepicker-master/jquery.datetimepicker.css"/ >
