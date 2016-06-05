@@ -41,7 +41,7 @@
 				</div>
 				<div id="search">
 					<form method="get">
-						<input type="text" placeholder="Where At?"/>
+						<input type="text" placeholder="Location"/>
 						<input type="text" id="datetimepicker" placeholder="Date/Time"/>
 						<select>
 							<option disabled selected>Capacity</option>
