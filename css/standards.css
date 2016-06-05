@@ -2,6 +2,7 @@
 	-webkit-appearance: none;
 	-webkit-tap-highlight-color: transparent;
 	-webkit-text-size-adjust: none;
+	-moz-appearance: none;
 	margin: 0;
 	padding: 0;
 	font-family: 'Roboto', sans-serif;		/* change as necessary */
