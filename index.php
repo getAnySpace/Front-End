@@ -8,6 +8,7 @@
 		<link rel="shortcut icon" href="images/icon.png">
 		
 		<!-- STYLE SHEETS -->
+		<link rel="stylesheet" href="css/standards.css"/>
 		<link rel="stylesheet" href="css/style.css"/>
 		
 		<!-- FONTS -->
